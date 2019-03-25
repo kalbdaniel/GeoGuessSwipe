@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GeoGuessSwipe</string>
+    <string name="AppDescription">Swipe to the left if you think the county is in Europe and to the right if you think it is not in Europe. If you click the image, you get the name of the country.</string>
+</resources>
